@@ -1,0 +1,4 @@
+pymongo
+pymongo[srv]
+Flask
+Flask-PyMongo
